@@ -21,5 +21,5 @@
     "allowUnreachableCode": false,
     "allowUnusedLabels": false
   },
-  "include": ["index.ts", "src/**/*.ts"]
+  "include": ["src/index.ts", "src/**/*.ts"]
 }
